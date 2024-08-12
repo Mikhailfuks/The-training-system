@@ -2,7 +2,7 @@ import weka.core.Instances;
 import weka.core.converters.ConverterUtils.DataSource;
 import weka.classifiers.trees.J48;
 import weka.classifiers.evaluation.Evaluation;
-// We use the interfaces we have chosen
+// We use the libraries we have selected
 public class DecisionTreeClassificationExample {
 
     public static void main(String[] args) throws Exception {
